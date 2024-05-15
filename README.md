@@ -1,8 +1,8 @@
 
 ## 実行
 
-1. /data/ にissue.xlsxを作成する
-2. /src/config.pyを作成する
+1. /data/ にissue.xlsxを作成する (issues.sample.xlsxを複製してリネーム)
+2. /src/config.pyを作成する (config.sample.pyを複製してリネーム)
 3. `$ python src/main.py` を実行する
 
 ---

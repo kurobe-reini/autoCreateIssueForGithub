@@ -1,0 +1,5 @@
+GITHUB_TOKEN = 'token'
+REPO_OWNER = 'aquaring'
+REPO_NAME = 'repo name'
+EXCEL_FILE_PATH = '/data/xxx.xlsx'
+SHEET_NAME = 'sheet name'
